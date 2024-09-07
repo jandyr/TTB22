@@ -19,4 +19,4 @@ The repository is organized as follows.
 
 Use **Colab** by going to  [Google Colab](https://colab.research.google.com/), which supports URLs that link directly to a GitHub browser.
 
-Select **GitHub** and type in the address of [ProSeisSN](https://github.com/jandyr/TTB22).
+Select **GitHub** and type in the address of [TTB22](https://github.com/jandyr/TTB22).
